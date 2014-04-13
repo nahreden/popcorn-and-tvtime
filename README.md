@@ -19,7 +19,7 @@ Under development (RC) for Mac OSX - Windows - Linux.
 
 ### Development
 
-See [Development's page](https://github.com/popcorn-team/popcorn-app/wiki/Development)
+See [Development's page](https://github.com/popcorn-official/popcorn-app/wiki/Development)
 
 
 ## Any problem?
