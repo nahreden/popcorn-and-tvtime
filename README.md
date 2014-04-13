@@ -1,4 +1,4 @@
-#TV time
+#Popcorn-time and TV-time Combined
 
 ### Idea
 
